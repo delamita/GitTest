@@ -3,7 +3,7 @@
 This is a git-test project
 Creating a new branch is quick from vim.
 
-更改了CRLF
+“这是测试3在线更改的内容”
 
 Creating a new branch is quick & simple.
 
