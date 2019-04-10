@@ -38,6 +38,8 @@ Creating a new branch is quick & simple.
 	"这是测试3的测试用句”"
 	
 	4@ ：还是测试本地和在线的冲突情况：先同步一下再分别修改。
+	
+	--结果：如果本地不add,那么pull就不会修改本地的文件
 
 	
 		 
