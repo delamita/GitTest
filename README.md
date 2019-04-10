@@ -4,7 +4,7 @@ This is a git-test project
 Creating a new branch is quick from vim.
 
 
-冲突测试Tag："这是测试3的测试用句”"
+冲突测试Tag："在本地修改的测试4的tag”"
 
 
 Creating a new branch is quick & simple.
