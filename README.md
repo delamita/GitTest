@@ -4,6 +4,6 @@ This is a git-test project
 Creating a new branch is quick from vim.
 
 
-冲突测试Tag：
+冲突测试Tag：“编辑这一语句来测试冲突”
 	
 //git 测试：
