@@ -4,7 +4,7 @@ This is a git-test project
 Creating a new branch is quick from vim.
 
 
-冲突测试Tag："第二g”"
+冲突测试Tag：
 
 
 Creating a new branch is quick & simple.
@@ -37,16 +37,10 @@ Creating a new branch is quick & simple.
 	3@ ：测试本地的更改如果commit，pull远程是否会冲突？
 	"这是测试3的测试用句”"
 	
-<<<<<<< HEAD
-	4@ ：还是add测试本地和在线的冲突情况：先同步一下再分别修改。
-	
-	现在结果：因为上次更改了本地文件但是没有commit所以pull失败了
-	现在先同步一下再试试如果add了没有commit能不能pull
-=======
 	4@ ：还是测试本地和在线的冲突情况：先同步一下再分别修改。
 	
 	--结果：如果本地不add,那么pull就不会修改本地的文件
->>>>>>> 4406c5abe00108c5d930fc2dbc9d5e7f484d18c0
+
 
 	
 		 
