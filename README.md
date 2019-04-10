@@ -17,3 +17,5 @@ Creating a new branch is quick & simple.
 	2--修改了冲突文件				14：27
 	 
 
+//git 多人协作练习2
+	--在线编辑冲突：查看本地是否更新	14：36
