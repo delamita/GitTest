@@ -7,6 +7,6 @@ Creating a new branch is quick from vim.
 
 git checkout测试
 
-出现此语句实验室吧
+出现此语句说明实验失败
 	
 //git 测试：
